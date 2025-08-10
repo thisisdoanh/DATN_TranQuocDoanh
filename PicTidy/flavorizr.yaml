@@ -1,0 +1,17 @@
+flavors:
+  dev:
+    app:
+      name: "Dev: PicTidy"
+
+    android:
+      applicationId: "com.thisisdoanh.datn.pictidy.dev"
+#      firebase:
+#        config: "android/app/src/dev/google-services.json"
+
+
+  prod:
+    app:
+      name: "PicTidy"
+    android:
+      applicationId: "com.thisisdoanh.datn.pictidy"
+
