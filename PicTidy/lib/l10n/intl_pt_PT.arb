@@ -1,0 +1,179 @@
+{
+  "error": "Erro",
+  "timeoutErrorOccurred": "Ocorreu um erro de tempo limite",
+  "errorSomething": "Ocorreu um erro...",
+  "language": "Idioma",
+  "swipeDelete": "Deslizar e eliminar",
+  "browsePhotosByMonth": "Navegar por fotos por mês",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Deslize para a esquerda para eliminar, para a direita para manter – sem complicações, mês a mês",
+  "reviewKeepdelete": "Rever e Manter/Eliminar",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Saiba exatamente quantas fotos organizou e desfaça a qualquer momento",
+  "quicklyRemoveTheBackground": "Remova o fundo rapidamente",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "Com apenas uma ação, o fundo será removido automaticamente em poucos segundos",
+  "start": "Iniciar",
+  "next": "Seguinte",
+  "permission": "Permissão",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}” requer permissão para usar a função do dispositivo",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Permissão de notificação",
+  "youMustGrantNotificationPermissionToUseThisApp": "Tem de conceder permissão de notificação para usar esta aplicação",
+  "storagePermission": "Permissão de armazenamento",
+  "youMustGrantStoragePermissionToUseThisApp": "Tem de conceder permissão de armazenamento para usar esta aplicação",
+  "storage": "Armazenamento",
+  "notification": "Notificação",
+  "permissionDenied": "Permissão negada",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Tem de permitir esta permissão para usar a funcionalidade.",
+  "setting": "Definição",
+  "cancel": "Cancelar",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "A sua foto está a ser preparada para deslizar. Por favor, aguarde um momento",
+  "useInPhoto": "Usar na foto",
+  "freed": "Libertado",
+  "cleanUp": "LIMPAR",
+  "video": "Vídeo",
+  "photo": "Foto",
+  "screenshot": "Captura de ecrã",
+  "album": "Álbum",
+  "throwbackMoment": "Momento de recordação",
+  "nothingToRememberToday": "Nada para recordar hoje",
+  "letsLookBackOnThisDayInThePast": "Vamos recordar este dia no passado ~",
+  "recent": "Recente",
+  "random": "Aleatório",
+  "delete": "Eliminar",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Ocorreu um erro ao partilhar o ficheiro, tente novamente.",
+  "keep": "MANTER",
+  "reviewToDelete": "Rever para eliminar",
+  "deleteNPhoto": "Eliminar {value} foto",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Negar",
+  "allow": "Permitir",
+  "manageMedia": "Gerir média",
+  "allowAppToDeleteNVideo": "Permitir que {appName} elimine {value} vídeo?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} será eliminado.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "Ir para casa",
+  "done": "Concluído",
+  "imageDeleted": "Imagem eliminada",
+  "videoDeleted": "Vídeo eliminado",
+  "videoRetained": "Vídeo mantido",
+  "imageRetained": "Imagem mantida",
+  "removingBackground": "A remover o fundo...",
+  "somethingWentWrong": "Algo correu mal",
+  "backgroundRemoved": "Fundo removido",
+  "downloadedSuccessfully": "Transferido com sucesso",
+  "keepOnExploring": "Continue a explorar",
+  "goToHome": "Ir para a home",
+  "recently": "Recentemente",
+  "NYearsAgo": "Há {value} anos",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Fotos",
+  "screenshots": "Capturas de ecrã",
+  "anything": "Qualquer coisa",
+  "pickWhatTypesOfImageToSeeInRandom": "Escolha que tipos de imagem ver em Aleatório",
+  "favorite": "Favorito",
+  "myStatistics": "As minhas estatísticas",
+  "share": "Partilhar",
+  "rate": "Avaliar",
+  "policy": "Política",
+  "noFavoritesYet": "Ainda não há favoritos ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Ainda não marcou nenhuma foto como favorita. Toque no ícone de coração para guardar aqui as suas melhores fotos!",
+  "photoDeleted": "Foto eliminada",
+  "photoRetained": "Foto mantida",
+  "NPhotos": "{value} fotos",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Limpe rapidamente as suas fotos e vídeos com SlideWipe! 💥\nTransfira agora",
+  "thereAreNoPhotosHereYet": "Ainda não há fotos aqui~",
+  "addAFewPicsAndLetTheFunBegin": "Adicione algumas fotos e comece a diversão!",
+  "thereAreNoVideoHereYet": "Ainda não há vídeos aqui",
+  "addSomeFunVideosToSpiceThingsUp": "Adicione alguns vídeos divertidos para animar as coisas!",
+  "thisAlbumHasNoPhotosYet": "Este álbum ainda não tem fotos~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Adicione algumas fotos para começar a guardar os seus momentos preciosos",
+  "noThrowbackKnockingOnYourDoorToday": "Nenhuma recordação bate à sua porta hoje ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "mas quem sabe — amanhã pode trazer algo especial",
+  "nothingFromThePast5Days": "Nada dos últimos 5 dias ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "A pasta \"Recentemente\" irá mostrar fotos que não visualizou nos últimos 5 dias",
+  "clean": "Limpar",
+  "memory": "Memória",
+  "thisActionCanContainAdsAnimationLoading": "Esta ação pode conter anúncios e animações",
+  "thereAreNoImagesInThisSection": "Não há imagens nesta secção",
+  "doYouLikeTheApp": "Gosta da aplicação?",
+  "xByRatingIt5Stars": "{appName} avaliando com 5 estrelas",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Por favor, apoie-nos",
+  "ohNo": "Oh, não!",
+  "pleaseGiveUsSomeFeedback": "Por favor, dê-nos o seu feedback",
+  "bestRatingForUs": "A melhor avaliação para nós",
+  "skip": "Saltar",
+  "youHaventSavedAnyImagesYet": "Ainda não guardou nenhuma imagem",
+  "tapTheIcon": "Toque no ícone",
+  "toSaveTheImageToFavorites": "para guardar a imagem nos Favoritos",
+  "cleaner": "Limpeza",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Organize as suas fotos com um simples deslizar por cada dia, arrume-as rapidamente num instante",
+  "languages": "Idiomas",
+  "favorites": "Favoritos",
+  "settings": "Definições",
+  "allowAppToDeleteNImage": "Permitir que {appName} elimine {value} imagem?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

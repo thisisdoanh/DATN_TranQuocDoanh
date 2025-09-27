@@ -93,6 +93,7 @@ dependencies:
 
   # Slider
   flutter_card_swiper: ^7.0.2
+  animated_toggle_switch: any
 
   # Other
   device_info_plus: ^11.5.0

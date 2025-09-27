@@ -1,0 +1,179 @@
+{
+  "error": "Ошибка",
+  "timeoutErrorOccurred": "Произошла ошибка тайм-аута",
+  "errorSomething": "Произошла ошибка...",
+  "language": "Язык",
+  "swipeDelete": "Свайп и удаление",
+  "browsePhotosByMonth": "Просмотр фотографий по месяцам",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Свайп влево — удалить, вправо — оставить. Без хлопот, месяц за месяцем",
+  "reviewKeepdelete": "Проверить и оставить/удалить",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Знайте, сколько фото вы организовали, и отменяйте в любой момент",
+  "quicklyRemoveTheBackground": "Быстро удалить фон",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "Одним действием фон будет автоматически удалён за несколько секунд",
+  "start": "Начать",
+  "next": "Далее",
+  "permission": "Разрешение",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "«{appName}» требует разрешения для использования функции устройства",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Разрешение на уведомления",
+  "youMustGrantNotificationPermissionToUseThisApp": "Вы должны предоставить разрешение на уведомления для использования этого приложения",
+  "storagePermission": "Разрешение на хранилище",
+  "youMustGrantStoragePermissionToUseThisApp": "Вы должны предоставить разрешение на хранилище для использования этого приложения",
+  "storage": "Хранилище",
+  "notification": "Уведомление",
+  "permissionDenied": "Доступ запрещён",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Вам нужно разрешить это, чтобы использовать функцию.",
+  "setting": "Настройка",
+  "cancel": "Отмена",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "Ваше фото готовится к свайпу. Пожалуйста, подождите немного",
+  "useInPhoto": "Использовать в фото",
+  "freed": "Освобождено",
+  "cleanUp": "ОЧИСТИТЬ",
+  "video": "Видео",
+  "photo": "Фото",
+  "screenshot": "Скриншот",
+  "album": "Альбом",
+  "throwbackMoment": "Момент воспоминаний",
+  "nothingToRememberToday": "Сегодня нечего вспоминать",
+  "letsLookBackOnThisDayInThePast": "Давайте вспомним этот день в прошлом ~",
+  "recent": "Недавние",
+  "random": "Случайно",
+  "delete": "Удалить",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Произошла ошибка при отправке файла, попробуйте ещё раз.",
+  "keep": "ОСТАВИТЬ",
+  "reviewToDelete": "Проверить для удаления",
+  "deleteNPhoto": "Удалить {value} фото",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Отклонить",
+  "allow": "Разрешить",
+  "manageMedia": "Управлять медиа",
+  "allowAppToDeleteNVideo": "Разрешить {appName} удалить {value} видео?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} будет удалено.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "На главную",
+  "done": "Готово",
+  "imageDeleted": "Изображение удалено",
+  "videoDeleted": "Видео удалено",
+  "videoRetained": "Видео сохранено",
+  "imageRetained": "Изображение сохранено",
+  "removingBackground": "Удаление фона...",
+  "somethingWentWrong": "Что-то пошло не так",
+  "backgroundRemoved": "Фон удалён",
+  "downloadedSuccessfully": "Успешно загружено",
+  "keepOnExploring": "Продолжайте исследовать",
+  "goToHome": "На главную",
+  "recently": "Недавно",
+  "NYearsAgo": "{value} лет назад",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Фотографии",
+  "screenshots": "Скриншоты",
+  "anything": "Что угодно",
+  "pickWhatTypesOfImageToSeeInRandom": "Выберите, какие типы изображений видеть в Случайном",
+  "favorite": "Избранное",
+  "myStatistics": "Моя статистика",
+  "share": "Поделиться",
+  "rate": "Оценить",
+  "policy": "Политика",
+  "noFavoritesYet": "Пока нет избранного ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Вы ещё не отметили ни одной фотографии как избранную. Нажмите на значок сердца, чтобы сохранить лучшие снимки здесь!",
+  "photoDeleted": "Фото удалено",
+  "photoRetained": "Фото сохранено",
+  "NPhotos": "{value} фото",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Быстро очистите свои фото и видео с помощью SlideWipe! 💥\nСкачайте сейчас",
+  "thereAreNoPhotosHereYet": "Здесь пока нет фото~",
+  "addAFewPicsAndLetTheFunBegin": "Добавьте несколько фото и начните веселиться!",
+  "thereAreNoVideoHereYet": "Здесь пока нет видео",
+  "addSomeFunVideosToSpiceThingsUp": "Добавьте несколько интересных видео, чтобы сделать всё веселее!",
+  "thisAlbumHasNoPhotosYet": "В этом альбоме пока нет фото~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Добавьте несколько фото, чтобы начать сохранять свои драгоценные моменты",
+  "noThrowbackKnockingOnYourDoorToday": "Сегодня воспоминания не стучатся в вашу дверь ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "но кто знает — завтра может принести что-то особенное",
+  "nothingFromThePast5Days": "Ничего за последние 5 дней ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "Папка \"Недавно\" покажет фото, которые вы не смотрели последние 5 дней",
+  "clean": "Очистить",
+  "memory": "Память",
+  "thisActionCanContainAdsAnimationLoading": "Это действие может содержать рекламу и анимацию",
+  "thereAreNoImagesInThisSection": "В этом разделе нет изображений",
+  "doYouLikeTheApp": "Вам нравится приложение?",
+  "xByRatingIt5Stars": "{appName} оцените на 5 звёзд",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Пожалуйста, поддержите нас",
+  "ohNo": "О нет!",
+  "pleaseGiveUsSomeFeedback": "Пожалуйста, оставьте отзыв",
+  "bestRatingForUs": "Лучшая оценка для нас",
+  "skip": "Пропустить",
+  "youHaventSavedAnyImagesYet": "Вы ещё не сохранили ни одного изображения",
+  "tapTheIcon": "Нажмите на значок",
+  "toSaveTheImageToFavorites": "чтобы сохранить изображение в Избранное",
+  "cleaner": "Очиститель",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Упорядочивайте свои фотографии простым свайпом по каждому дню, быстро сортируйте их в одно мгновение",
+  "languages": "Языки",
+  "favorites": "Избранное",
+  "settings": "Настройки",
+  "allowAppToDeleteNImage": "Разрешить {appName} удалить {value} изображение?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

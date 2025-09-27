@@ -1,0 +1,179 @@
+{
+  "error": "Kesalahan",
+  "timeoutErrorOccurred": "Terjadi kesalahan waktu habis",
+  "errorSomething": "Terjadi kesalahan...",
+  "language": "Bahasa",
+  "swipeDelete": "Geser & Hapus",
+  "browsePhotosByMonth": "Jelajahi foto berdasarkan bulan",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Geser ke kiri untuk menghapus, ke kanan untuk menyimpan – tanpa repot, bulan demi bulan",
+  "reviewKeepdelete": "Tinjau & Simpan/Hapus",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Ketahui persis berapa banyak foto yang telah Anda atur dan batalkan kapan saja",
+  "quicklyRemoveTheBackground": "Hapus latar belakang dengan cepat",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "Dengan satu tindakan saja - latar belakang akan dihapus secara otomatis dalam beberapa detik",
+  "start": "Mulai",
+  "next": "Berikutnya",
+  "permission": "Izin",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}” memerlukan izin untuk menggunakan fungsi perangkat",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Izin Notifikasi",
+  "youMustGrantNotificationPermissionToUseThisApp": "Anda harus memberikan izin notifikasi untuk menggunakan aplikasi ini",
+  "storagePermission": "Izin Penyimpanan",
+  "youMustGrantStoragePermissionToUseThisApp": "Anda harus memberikan izin penyimpanan untuk menggunakan aplikasi ini",
+  "storage": "Penyimpanan",
+  "notification": "Notifikasi",
+  "permissionDenied": "Izin Ditolak",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Anda perlu mengizinkan izin ini untuk menggunakan fitur ini.",
+  "setting": "Pengaturan",
+  "cancel": "Batal",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "Foto Anda sedang dipersiapkan untuk digeser. Mohon tunggu sebentar",
+  "useInPhoto": "Gunakan di foto",
+  "freed": "Dibebaskan",
+  "cleanUp": "BERSIHKAN",
+  "video": "Video",
+  "photo": "Foto",
+  "screenshot": "Tangkapan layar",
+  "album": "Album",
+  "throwbackMoment": "Momen Kenangan",
+  "nothingToRememberToday": "Tidak ada yang perlu diingat hari ini",
+  "letsLookBackOnThisDayInThePast": "Mari kita lihat kembali hari ini di masa lalu ~",
+  "recent": "Baru-baru ini",
+  "random": "Acak",
+  "delete": "Hapus",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Terjadi kesalahan saat membagikan file, silakan coba lagi.",
+  "keep": "SIMPAN",
+  "reviewToDelete": "Tinjau untuk menghapus",
+  "deleteNPhoto": "Hapus {value} foto",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Tolak",
+  "allow": "Izinkan",
+  "manageMedia": "Kelola media",
+  "allowAppToDeleteNVideo": "Izinkan {appName} menghapus {value} video?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} akan dihapus.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "Pergi ke beranda",
+  "done": "Selesai",
+  "imageDeleted": "Gambar dihapus",
+  "videoDeleted": "Video dihapus",
+  "videoRetained": "Video disimpan",
+  "imageRetained": "Gambar disimpan",
+  "removingBackground": "Menghapus latar belakang...",
+  "somethingWentWrong": "Terjadi kesalahan",
+  "backgroundRemoved": "Latar belakang dihapus",
+  "downloadedSuccessfully": "Berhasil diunduh",
+  "keepOnExploring": "Terus jelajahi",
+  "goToHome": "Pergi ke beranda",
+  "recently": "Baru-baru ini",
+  "NYearsAgo": "{value} tahun yang lalu",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Foto",
+  "screenshots": "Tangkapan layar",
+  "anything": "Apa saja",
+  "pickWhatTypesOfImageToSeeInRandom": "Pilih jenis gambar apa yang ingin dilihat di Acak",
+  "favorite": "Favorit",
+  "myStatistics": "Statistik Saya",
+  "share": "Bagikan",
+  "rate": "Beri nilai",
+  "policy": "Kebijakan",
+  "noFavoritesYet": "Belum ada favorit ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Anda belum menandai foto apa pun sebagai favorit. Ketuk ikon hati untuk menyimpan foto terbaik Anda di sini!",
+  "photoDeleted": "Foto dihapus",
+  "photoRetained": "Foto disimpan",
+  "NPhotos": "{value} foto",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Bersihkan foto dan video Anda dengan cepat menggunakan SlideWipe! 💥\nUnduh sekarang",
+  "thereAreNoPhotosHereYet": "Belum ada foto di sini~",
+  "addAFewPicsAndLetTheFunBegin": "Tambahkan beberapa foto dan mulailah bersenang-senang!",
+  "thereAreNoVideoHereYet": "Belum ada video di sini",
+  "addSomeFunVideosToSpiceThingsUp": "Tambahkan beberapa video seru untuk membuatnya lebih menarik!",
+  "thisAlbumHasNoPhotosYet": "Album ini belum memiliki foto~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Tambahkan beberapa foto untuk mulai menyimpan momen berharga Anda",
+  "noThrowbackKnockingOnYourDoorToday": "Tidak ada kenangan yang mengetuk pintu Anda hari ini ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "tapi siapa tahu — besok mungkin membawa sesuatu yang istimewa",
+  "nothingFromThePast5Days": "Tidak ada dari 5 hari terakhir ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "Folder \"Baru-baru ini\" akan menampilkan foto yang belum Anda lihat dalam 5 hari terakhir",
+  "clean": "Bersihkan",
+  "memory": "Memori",
+  "thisActionCanContainAdsAnimationLoading": "Tindakan ini dapat berisi iklan & animasi",
+  "thereAreNoImagesInThisSection": "Tidak ada gambar di bagian ini",
+  "doYouLikeTheApp": "Apakah Anda suka aplikasinya?",
+  "xByRatingIt5Stars": "{appName} dengan memberi nilai 5 bintang",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Mohon dukungannya",
+  "ohNo": "Oh, tidak!",
+  "pleaseGiveUsSomeFeedback": "Silakan beri kami masukan",
+  "bestRatingForUs": "Penilaian terbaik untuk kami",
+  "skip": "Lewati",
+  "youHaventSavedAnyImagesYet": "Anda belum menyimpan gambar apa pun",
+  "tapTheIcon": "Ketuk ikon",
+  "toSaveTheImageToFavorites": "untuk menyimpan gambar ke Favorit",
+  "cleaner": "Pembersih",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Atur foto Anda dengan sekali geser setiap hari, susun dengan cepat seketika",
+  "languages": "Bahasa",
+  "favorites": "Favorit",
+  "settings": "Pengaturan",
+  "allowAppToDeleteNImage": "Izinkan {appName} menghapus {value} gambar?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

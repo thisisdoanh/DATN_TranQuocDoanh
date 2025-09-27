@@ -1,0 +1,8 @@
+xoaback.png
+size:1025,724
+filter:Linear,Linear
+pma:true
+2
+bounds:2,2,720,720
+Vector
+bounds:724,210,299,512

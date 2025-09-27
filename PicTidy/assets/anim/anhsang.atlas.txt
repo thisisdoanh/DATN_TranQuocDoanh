@@ -1,0 +1,12 @@
+anhsang.png
+size:1543,1030
+filter:Linear,Linear
+pma:true
+Rectangle 29757
+bounds:2,516,1429,512
+Vector 4
+bounds:1216,2,325,512
+Vector 5
+bounds:839,2,375,512
+ad
+bounds:2,2,835,512
