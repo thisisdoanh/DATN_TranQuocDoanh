@@ -1,0 +1,179 @@
+{
+  "error": "エラー",
+  "timeoutErrorOccurred": "タイムアウトエラーが発生しました",
+  "errorSomething": "何か問題が発生しました...",
+  "language": "言語",
+  "swipeDelete": "スワイプして削除",
+  "browsePhotosByMonth": "月ごとに写真を閲覧",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "左にスワイプで削除、右にスワイプで保存 – 月ごとに簡単操作",
+  "reviewKeepdelete": "確認して保存/削除",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "整理した写真の数を正確に把握し、いつでも元に戻せます",
+  "quicklyRemoveTheBackground": "背景を素早く削除",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "ワンタッチで背景が数秒で自動的に削除されます",
+  "start": "開始",
+  "next": "次へ",
+  "permission": "権限",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "「{appName}」はデバイスの機能を使用するために権限が必要です",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "通知の権限",
+  "youMustGrantNotificationPermissionToUseThisApp": "このアプリを使用するには通知の権限が必要です",
+  "storagePermission": "ストレージの権限",
+  "youMustGrantStoragePermissionToUseThisApp": "このアプリを使用するにはストレージの権限が必要です",
+  "storage": "ストレージ",
+  "notification": "通知",
+  "permissionDenied": "権限が拒否されました",
+  "youNeedToAllowThisPermissionToUseTheFeature": "この機能を使用するにはこの権限が必要です。",
+  "setting": "設定",
+  "cancel": "キャンセル",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "写真をスワイプ用に準備中です。しばらくお待ちください",
+  "useInPhoto": "写真で使用",
+  "freed": "解放済み",
+  "cleanUp": "クリーンアップ",
+  "video": "ビデオ",
+  "photo": "写真",
+  "screenshot": "スクリーンショット",
+  "album": "アルバム",
+  "throwbackMoment": "思い出の瞬間",
+  "nothingToRememberToday": "今日は思い出がありません",
+  "letsLookBackOnThisDayInThePast": "過去のこの日を振り返りましょう ~",
+  "recent": "最近",
+  "random": "ランダム",
+  "delete": "削除",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "ファイルの共有中にエラーが発生しました。もう一度お試しください。",
+  "keep": "保存",
+  "reviewToDelete": "削除を確認",
+  "deleteNPhoto": "{value}枚の写真を削除",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "拒否",
+  "allow": "許可",
+  "manageMedia": "メディアを管理",
+  "allowAppToDeleteNVideo": "{appName}が{value}本のビデオを削除することを許可しますか？",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value}が削除されます。",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "ホームに戻る",
+  "done": "完了",
+  "imageDeleted": "画像が削除されました",
+  "videoDeleted": "ビデオが削除されました",
+  "videoRetained": "ビデオが保持されました",
+  "imageRetained": "画像が保持されました",
+  "removingBackground": "背景を削除中...",
+  "somethingWentWrong": "問題が発生しました",
+  "backgroundRemoved": "背景が削除されました",
+  "downloadedSuccessfully": "ダウンロードに成功しました",
+  "keepOnExploring": "引き続き探索する",
+  "goToHome": "ホームに戻る",
+  "recently": "最近",
+  "NYearsAgo": "{value}年前",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "写真",
+  "screenshots": "スクリーンショット",
+  "anything": "何でも",
+  "pickWhatTypesOfImageToSeeInRandom": "ランダムで表示する画像の種類を選択",
+  "favorite": "お気に入り",
+  "myStatistics": "マイ統計",
+  "share": "共有",
+  "rate": "評価",
+  "policy": "ポリシー",
+  "noFavoritesYet": "まだお気に入りがありません ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "まだお気に入りに登録した写真がありません。ハートアイコンをタップしてベストショットをここに保存しましょう！",
+  "photoDeleted": "写真が削除されました",
+  "photoRetained": "写真が保持されました",
+  "NPhotos": "{value}枚の写真",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "SlideWipeで写真とビデオを素早くクリーンアップ！ 💥\n今すぐダウンロード",
+  "thereAreNoPhotosHereYet": "ここにはまだ写真がありません~",
+  "addAFewPicsAndLetTheFunBegin": "写真を追加して楽しみましょう！",
+  "thereAreNoVideoHereYet": "ここにはまだビデオがありません",
+  "addSomeFunVideosToSpiceThingsUp": "楽しいビデオを追加して盛り上げましょう！",
+  "thisAlbumHasNoPhotosYet": "このアルバムにはまだ写真がありません~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "写真を追加して大切な瞬間を保存しましょう",
+  "noThrowbackKnockingOnYourDoorToday": "今日は思い出が訪れません ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "でも、明日は何か特別なことがあるかもしれません",
+  "nothingFromThePast5Days": "過去5日間には何もありません ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "「最近」フォルダには過去5日間に見ていない写真が表示されます",
+  "clean": "クリーン",
+  "memory": "メモリー",
+  "thisActionCanContainAdsAnimationLoading": "この操作には広告やアニメーションが含まれる場合があります",
+  "thereAreNoImagesInThisSection": "このセクションには画像がありません",
+  "doYouLikeTheApp": "このアプリは気に入りましたか？",
+  "xByRatingIt5Stars": "{appName}を5つ星で評価",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "ご支援お願いします",
+  "ohNo": "あらら！",
+  "pleaseGiveUsSomeFeedback": "ご意見をお聞かせください",
+  "bestRatingForUs": "最高の評価をお願いします",
+  "skip": "スキップ",
+  "youHaventSavedAnyImagesYet": "まだ画像を保存していません",
+  "tapTheIcon": "アイコンをタップ",
+  "toSaveTheImageToFavorites": "画像をお気に入りに保存する",
+  "cleaner": "クリーナー",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "毎日シンプルなスワイプで写真を整理し、瞬時に素早く並べ替えます",
+  "languages": "言語",
+  "favorites": "お気に入り",
+  "settings": "設定",
+  "allowAppToDeleteNImage": "{appName}に{value}枚の画像を削除してもよろしいですか？",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

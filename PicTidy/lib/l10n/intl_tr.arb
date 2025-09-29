@@ -1,0 +1,179 @@
+{
+  "error": "Hata",
+  "timeoutErrorOccurred": "Zaman aşımı hatası oluştu",
+  "errorSomething": "Bir hata oluştu...",
+  "language": "Dil",
+  "swipeDelete": "Kaydır & Sil",
+  "browsePhotosByMonth": "Aylara göre fotoğraflara göz at",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Sola kaydır sil, sağa kaydır tut – zahmetsizce, ay ay",
+  "reviewKeepdelete": "Gözden geçir & Tut/Sil",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Kaç fotoğrafı düzenlediğinizi tam olarak bilin ve istediğiniz zaman geri alın",
+  "quicklyRemoveTheBackground": "Arka planı hızlıca kaldır",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "Tek bir işlemle arka plan birkaç saniyede otomatik olarak kaldırılır",
+  "start": "Başla",
+  "next": "Sonraki",
+  "permission": "İzin",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}” cihazın işlevini kullanmak için izne ihtiyaç duyar",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Bildirim izni",
+  "youMustGrantNotificationPermissionToUseThisApp": "Bu uygulamayı kullanmak için bildirim izni vermelisiniz",
+  "storagePermission": "Depolama izni",
+  "youMustGrantStoragePermissionToUseThisApp": "Bu uygulamayı kullanmak için depolama izni vermelisiniz",
+  "storage": "Depolama",
+  "notification": "Bildirim",
+  "permissionDenied": "İzin reddedildi",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Bu özelliği kullanmak için bu izni vermelisiniz.",
+  "setting": "Ayar",
+  "cancel": "İptal",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "Fotoğrafınız kaydırma için hazırlanıyor. Lütfen bekleyin",
+  "useInPhoto": "Fotoğrafta kullan",
+  "freed": "Boşaltıldı",
+  "cleanUp": "TEMİZLE",
+  "video": "Video",
+  "photo": "Fotoğraf",
+  "screenshot": "Ekran görüntüsü",
+  "album": "Albüm",
+  "throwbackMoment": "Geçmişten bir anı",
+  "nothingToRememberToday": "Bugün hatırlanacak bir şey yok",
+  "letsLookBackOnThisDayInThePast": "Geçmişte bugüne bir bakalım ~",
+  "recent": "Son",
+  "random": "Rastgele",
+  "delete": "Sil",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Dosya paylaşılırken bir hata oluştu, lütfen tekrar deneyin.",
+  "keep": "TUT",
+  "reviewToDelete": "Silmek için gözden geçir",
+  "deleteNPhoto": "{value} fotoğrafı sil",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Reddet",
+  "allow": "İzin ver",
+  "manageMedia": "Medya yönet",
+  "allowAppToDeleteNVideo": "{appName} uygulamasının {value} videoyu silmesine izin verilsin mi?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} silinecek.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "Ana sayfaya git",
+  "done": "Bitti",
+  "imageDeleted": "Görüntü silindi",
+  "videoDeleted": "Video silindi",
+  "videoRetained": "Video tutuldu",
+  "imageRetained": "Görüntü tutuldu",
+  "removingBackground": "Arka plan kaldırılıyor...",
+  "somethingWentWrong": "Bir şeyler ters gitti",
+  "backgroundRemoved": "Arka plan kaldırıldı",
+  "downloadedSuccessfully": "Başarıyla indirildi",
+  "keepOnExploring": "Keşfetmeye devam et",
+  "goToHome": "Ana sayfaya git",
+  "recently": "Son zamanlarda",
+  "NYearsAgo": "{value} yıl önce",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Fotoğraflar",
+  "screenshots": "Ekran görüntüleri",
+  "anything": "Herhangi bir şey",
+  "pickWhatTypesOfImageToSeeInRandom": "Rastgele'de hangi türde görselleri görmek istediğinizi seçin",
+  "favorite": "Favori",
+  "myStatistics": "İstatistiklerim",
+  "share": "Paylaş",
+  "rate": "Puanla",
+  "policy": "Politika",
+  "noFavoritesYet": "Henüz favori yok ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Henüz hiçbir fotoğrafı favori olarak işaretlemediniz. En iyi karelerinizi burada saklamak için kalp simgesine dokunun!",
+  "photoDeleted": "Fotoğraf silindi",
+  "photoRetained": "Fotoğraf tutuldu",
+  "NPhotos": "{value} fotoğraf",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Fotoğraflarınızı ve videolarınızı SlideWipe ile hızlıca temizleyin! 💥\nŞimdi indirin",
+  "thereAreNoPhotosHereYet": "Burada henüz fotoğraf yok~",
+  "addAFewPicsAndLetTheFunBegin": "Birkaç fotoğraf ekleyin ve eğlence başlasın!",
+  "thereAreNoVideoHereYet": "Burada henüz video yok",
+  "addSomeFunVideosToSpiceThingsUp": "Biraz eğlenceli video ekleyin, ortamı canlandırın!",
+  "thisAlbumHasNoPhotosYet": "Bu albümde henüz fotoğraf yok~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Değerli anılarınızı kaydetmeye başlamak için birkaç fotoğraf ekleyin",
+  "noThrowbackKnockingOnYourDoorToday": "Bugün kapınızı çalan bir anı yok ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "ama kim bilir — yarın özel bir şey getirebilir",
+  "nothingFromThePast5Days": "Son 5 günde hiçbir şey yok ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "'Son zamanlarda' klasörü, son 5 günde görmediğiniz fotoğrafları gösterecek",
+  "clean": "Temizle",
+  "memory": "Hafıza",
+  "thisActionCanContainAdsAnimationLoading": "Bu işlem reklam ve animasyon içerebilir",
+  "thereAreNoImagesInThisSection": "Bu bölümde görsel yok",
+  "doYouLikeTheApp": "Uygulamayı beğendiniz mi?",
+  "xByRatingIt5Stars": "{appName} uygulamasını 5 yıldızla değerlendirin",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Lütfen destek olun",
+  "ohNo": "Ah, hayır!",
+  "pleaseGiveUsSomeFeedback": "Lütfen bize geri bildirim verin",
+  "bestRatingForUs": "Bizim için en iyi puan",
+  "skip": "Atla",
+  "youHaventSavedAnyImagesYet": "Henüz hiç görsel kaydetmediniz",
+  "tapTheIcon": "Simgeye dokunun",
+  "toSaveTheImageToFavorites": "görseli Favorilere kaydetmek için",
+  "cleaner": "Temizleyici",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Her gün boyunca basit bir kaydırma ile fotoğraflarınızı düzenleyin, anında hızlıca sıralayın",
+  "languages": "Diller",
+  "favorites": "Favoriler",
+  "settings": "Ayarlar",
+  "allowAppToDeleteNImage": "{appName} uygulamasının {value} resmi silmesine izin verilsin mi?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

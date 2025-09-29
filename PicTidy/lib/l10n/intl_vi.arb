@@ -1,0 +1,179 @@
+{
+  "error": "Lỗi",
+  "timeoutErrorOccurred": "Đã xảy ra lỗi thời gian chờ",
+  "errorSomething": "Đã xảy ra lỗi...",
+  "language": "Ngôn ngữ",
+  "swipeDelete": "Vuốt & Xóa",
+  "browsePhotosByMonth": "Xem ảnh theo tháng",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Vuốt trái để xóa, phải để giữ – dễ dàng, từng tháng",
+  "reviewKeepdelete": "Xem lại & Giữ/Xóa",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Biết chính xác số ảnh bạn đã sắp xếp và hoàn tác bất cứ lúc nào",
+  "quicklyRemoveTheBackground": "Xóa nền nhanh chóng",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "Chỉ với một thao tác - nền sẽ được xóa tự động chỉ trong vài giây",
+  "start": "Bắt đầu",
+  "next": "Tiếp theo",
+  "permission": "Quyền truy cập",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}” cần quyền để sử dụng chức năng của thiết bị",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Quyền thông báo",
+  "youMustGrantNotificationPermissionToUseThisApp": "Bạn phải cấp quyền thông báo để sử dụng ứng dụng này",
+  "storagePermission": "Quyền lưu trữ",
+  "youMustGrantStoragePermissionToUseThisApp": "Bạn phải cấp quyền lưu trữ để sử dụng ứng dụng này",
+  "storage": "Lưu trữ",
+  "notification": "Thông báo",
+  "permissionDenied": "Từ chối quyền",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Bạn cần cho phép quyền này để sử dụng tính năng.",
+  "setting": "Cài đặt",
+  "cancel": "Hủy",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "Ảnh của bạn đang được chuẩn bị để vuốt. Vui lòng chờ trong giây lát",
+  "useInPhoto": "Dùng trong ảnh",
+  "freed": "Đã giải phóng",
+  "cleanUp": "DỌN DẸP",
+  "video": "Video",
+  "photo": "Ảnh",
+  "screenshot": "Ảnh chụp màn hình",
+  "album": "Album",
+  "throwbackMoment": "Khoảnh khắc kỷ niệm",
+  "nothingToRememberToday": "Không có gì để nhớ hôm nay",
+  "letsLookBackOnThisDayInThePast": "Hãy cùng nhìn lại ngày này trong quá khứ ~",
+  "recent": "Gần đây",
+  "random": "Ngẫu nhiên",
+  "delete": "Xóa",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Có lỗi khi chia sẻ tệp, vui lòng thử lại.",
+  "keep": "GIỮ",
+  "reviewToDelete": "Xem lại để xóa",
+  "deleteNPhoto": "Xóa {value} ảnh",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Từ chối",
+  "allow": "Cho phép",
+  "manageMedia": "Quản lý phương tiện",
+  "allowAppToDeleteNVideo": "Cho phép {appName} xóa {value} video?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} sẽ bị xóa.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "Về trang chủ",
+  "done": "Xong",
+  "imageDeleted": "Đã xóa ảnh",
+  "videoDeleted": "Đã xóa video",
+  "videoRetained": "Đã giữ video",
+  "imageRetained": "Đã giữ ảnh",
+  "removingBackground": "Đang xóa nền...",
+  "somethingWentWrong": "Đã xảy ra sự cố",
+  "backgroundRemoved": "Đã xóa nền",
+  "downloadedSuccessfully": "Tải xuống thành công",
+  "keepOnExploring": "Tiếp tục khám phá",
+  "goToHome": "Về trang chủ",
+  "recently": "Gần đây",
+  "NYearsAgo": "{value} năm trước",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Ảnh",
+  "screenshots": "Ảnh chụp màn hình",
+  "anything": "Bất kỳ",
+  "pickWhatTypesOfImageToSeeInRandom": "Chọn loại ảnh muốn xem trong Ngẫu nhiên",
+  "favorite": "Yêu thích",
+  "myStatistics": "Thống kê của tôi",
+  "share": "Chia sẻ",
+  "rate": "Đánh giá",
+  "policy": "Chính sách",
+  "noFavoritesYet": "Chưa có yêu thích ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Bạn chưa đánh dấu ảnh nào là yêu thích. Hãy nhấn vào biểu tượng trái tim để lưu những bức ảnh đẹp nhất tại đây!",
+  "photoDeleted": "Đã xóa ảnh",
+  "photoRetained": "Đã giữ ảnh",
+  "NPhotos": "{value} ảnh",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Dọn dẹp ảnh và video của bạn nhanh chóng với SlideWipe! 💥\nTải ngay",
+  "thereAreNoPhotosHereYet": "Chưa có ảnh nào ở đây~",
+  "addAFewPicsAndLetTheFunBegin": "Thêm vài ảnh và bắt đầu vui thôi!",
+  "thereAreNoVideoHereYet": "Chưa có video nào ở đây",
+  "addSomeFunVideosToSpiceThingsUp": "Thêm vài video vui nhộn để tăng phần thú vị!",
+  "thisAlbumHasNoPhotosYet": "Album này chưa có ảnh~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Thêm vài ảnh để bắt đầu lưu giữ những khoảnh khắc quý giá",
+  "noThrowbackKnockingOnYourDoorToday": "Hôm nay không có kỷ niệm gõ cửa ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "nhưng ai biết được — ngày mai có thể sẽ có điều đặc biệt",
+  "nothingFromThePast5Days": "Không có gì trong 5 ngày qua ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "Thư mục \"Gần đây\" sẽ hiển thị ảnh bạn chưa xem trong 5 ngày qua",
+  "clean": "Dọn dẹp",
+  "memory": "Kỷ niệm",
+  "thisActionCanContainAdsAnimationLoading": "Hành động này có thể chứa quảng cáo & hoạt ảnh",
+  "thereAreNoImagesInThisSection": "Không có ảnh nào trong mục này",
+  "doYouLikeTheApp": "Bạn có thích ứng dụng không?",
+  "xByRatingIt5Stars": "{appName} bằng cách đánh giá 5 sao",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Hãy ủng hộ chúng tôi",
+  "ohNo": "Ôi không!",
+  "pleaseGiveUsSomeFeedback": "Hãy cho chúng tôi phản hồi",
+  "bestRatingForUs": "Đánh giá tốt nhất cho chúng tôi",
+  "skip": "Bỏ qua",
+  "youHaventSavedAnyImagesYet": "Bạn chưa lưu ảnh nào",
+  "tapTheIcon": "Nhấn vào biểu tượng",
+  "toSaveTheImageToFavorites": "để lưu ảnh vào Yêu thích",
+  "cleaner": "Trình dọn dẹp",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Sắp xếp ảnh của bạn chỉ với một lần vuốt qua từng ngày, nhanh chóng sắp xếp chúng ngay lập tức",
+  "languages": "Ngôn ngữ",
+  "favorites": "Yêu thích",
+  "settings": "Cài đặt",
+  "allowAppToDeleteNImage": "Cho phép {appName} xóa {value} ảnh?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "error": "오류",
+  "timeoutErrorOccurred": "시간 초과 오류가 발생했습니다",
+  "errorSomething": "문제가 발생했습니다...",
+  "language": "언어",
+  "swipeDelete": "스와이프 & 삭제",
+  "browsePhotosByMonth": "월별로 사진 탐색",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "왼쪽으로 스와이프하여 삭제, 오른쪽으로 스와이프하여 보관 – 간편하게, 월별로",
+  "reviewKeepdelete": "검토 및 보관/삭제",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "정리한 사진 수를 정확히 알고 언제든지 실행 취소할 수 있습니다",
+  "quicklyRemoveTheBackground": "배경 빠르게 제거",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "한 번의 동작으로 배경이 몇 초 만에 자동으로 제거됩니다",
+  "start": "시작",
+  "next": "다음",
+  "permission": "권한",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}”은(는) 기기 기능 사용을 위해 권한이 필요합니다",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "알림 권한",
+  "youMustGrantNotificationPermissionToUseThisApp": "이 앱을 사용하려면 알림 권한을 허용해야 합니다",
+  "storagePermission": "저장소 권한",
+  "youMustGrantStoragePermissionToUseThisApp": "이 앱을 사용하려면 저장소 권한을 허용해야 합니다",
+  "storage": "저장소",
+  "notification": "알림",
+  "permissionDenied": "권한 거부됨",
+  "youNeedToAllowThisPermissionToUseTheFeature": "이 기능을 사용하려면 이 권한을 허용해야 합니다.",
+  "setting": "설정",
+  "cancel": "취소",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "사진을 스와이프할 준비 중입니다. 잠시만 기다려주세요",
+  "useInPhoto": "사진에서 사용",
+  "freed": "해제됨",
+  "cleanUp": "정리",
+  "video": "비디오",
+  "photo": "사진",
+  "screenshot": "스크린샷",
+  "album": "앨범",
+  "throwbackMoment": "추억의 순간",
+  "nothingToRememberToday": "오늘은 기억할 것이 없습니다",
+  "letsLookBackOnThisDayInThePast": "과거의 오늘을 돌아봅시다 ~",
+  "recent": "최근",
+  "random": "무작위",
+  "delete": "삭제",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "파일 공유 중 오류가 발생했습니다. 다시 시도해주세요.",
+  "keep": "보관",
+  "reviewToDelete": "삭제 검토",
+  "deleteNPhoto": "{value}장의 사진 삭제",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "거부",
+  "allow": "허용",
+  "manageMedia": "미디어 관리",
+  "allowAppToDeleteNVideo": "{appName}이(가) {value}개의 비디오를 삭제하도록 허용하시겠습니까?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value}가 삭제됩니다.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "홈으로 가기",
+  "done": "완료",
+  "imageDeleted": "이미지 삭제됨",
+  "videoDeleted": "비디오 삭제됨",
+  "videoRetained": "비디오 보관됨",
+  "imageRetained": "이미지 보관됨",
+  "removingBackground": "배경 제거 중...",
+  "somethingWentWrong": "문제가 발생했습니다",
+  "backgroundRemoved": "배경 제거됨",
+  "downloadedSuccessfully": "성공적으로 다운로드됨",
+  "keepOnExploring": "계속 탐색하기",
+  "goToHome": "홈으로 가기",
+  "recently": "최근",
+  "NYearsAgo": "{value}년 전",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "사진",
+  "screenshots": "스크린샷",
+  "anything": "무엇이든",
+  "pickWhatTypesOfImageToSeeInRandom": "무작위에서 볼 이미지 유형 선택",
+  "favorite": "즐겨찾기",
+  "myStatistics": "내 통계",
+  "share": "공유",
+  "rate": "평가",
+  "policy": "정책",
+  "noFavoritesYet": "아직 즐겨찾기가 없습니다 ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "아직 즐겨찾기로 표시한 사진이 없습니다. 하트 아이콘을 눌러 최고의 사진을 저장하세요!",
+  "photoDeleted": "사진 삭제됨",
+  "photoRetained": "사진 보관됨",
+  "NPhotos": "{value}장의 사진",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "SlideWipe로 사진과 비디오를 빠르게 정리하세요! 💥\n지금 다운로드",
+  "thereAreNoPhotosHereYet": "아직 사진이 없습니다~",
+  "addAFewPicsAndLetTheFunBegin": "사진을 추가하고 재미를 시작하세요!",
+  "thereAreNoVideoHereYet": "아직 비디오가 없습니다",
+  "addSomeFunVideosToSpiceThingsUp": "재미있는 비디오를 추가해보세요!",
+  "thisAlbumHasNoPhotosYet": "이 앨범에는 아직 사진이 없습니다~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "사진을 추가하여 소중한 순간을 저장하세요",
+  "noThrowbackKnockingOnYourDoorToday": "오늘은 추억이 찾아오지 않습니다 ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "하지만 내일은 특별한 일이 있을지도 모릅니다",
+  "nothingFromThePast5Days": "지난 5일간 아무것도 없습니다 ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "'최근' 폴더에는 최근 5일간 보지 않은 사진이 표시됩니다",
+  "clean": "정리",
+  "memory": "메모리",
+  "thisActionCanContainAdsAnimationLoading": "이 작업에는 광고 및 애니메이션이 포함될 수 있습니다",
+  "thereAreNoImagesInThisSection": "이 섹션에는 이미지가 없습니다",
+  "doYouLikeTheApp": "앱이 마음에 드시나요?",
+  "xByRatingIt5Stars": "{appName}를 5점으로 평가하기",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "지원 부탁드립니다",
+  "ohNo": "오, 이런!",
+  "pleaseGiveUsSomeFeedback": "피드백을 남겨주세요",
+  "bestRatingForUs": "최고의 평가를 부탁드립니다",
+  "skip": "건너뛰기",
+  "youHaventSavedAnyImagesYet": "아직 이미지를 저장하지 않았습니다",
+  "tapTheIcon": "아이콘을 탭하세요",
+  "toSaveTheImageToFavorites": "이미지를 즐겨찾기에 저장하기",
+  "cleaner": "클리너",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "하루하루 간단한 스와이프로 사진을 정리하고, 즉시 빠르게 정렬하세요",
+  "languages": "언어",
+  "favorites": "즐겨찾기",
+  "settings": "설정",
+  "allowAppToDeleteNImage": "{appName}이 {value}개의 이미지를 삭제하도록 허용하시겠습니까?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

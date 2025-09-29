@@ -1,0 +1,179 @@
+{
+  "error": "错误",
+  "timeoutErrorOccurred": "发生超时错误",
+  "errorSomething": "发生错误...",
+  "language": "语言",
+  "swipeDelete": "滑动删除",
+  "browsePhotosByMonth": "按月份浏览照片",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "左滑删除，右滑保留——轻松管理，按月分类",
+  "reviewKeepdelete": "审核与保留/删除",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "清楚知道你已整理了多少照片，随时可撤销",
+  "quicklyRemoveTheBackground": "快速去除背景",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "只需一步，几秒内自动去除背景",
+  "start": "开始",
+  "next": "下一步",
+  "permission": "权限",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}”需要权限以使用设备功能",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "通知权限",
+  "youMustGrantNotificationPermissionToUseThisApp": "你必须授予通知权限才能使用此应用",
+  "storagePermission": "存储权限",
+  "youMustGrantStoragePermissionToUseThisApp": "你必须授予存储权限才能使用此应用",
+  "storage": "存储",
+  "notification": "通知",
+  "permissionDenied": "权限被拒绝",
+  "youNeedToAllowThisPermissionToUseTheFeature": "你需要允许此权限才能使用该功能。",
+  "setting": "设置",
+  "cancel": "取消",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "你的照片正在准备滑动，请稍候",
+  "useInPhoto": "在照片中使用",
+  "freed": "已释放",
+  "cleanUp": "清理",
+  "video": "视频",
+  "photo": "照片",
+  "screenshot": "截图",
+  "album": "相册",
+  "throwbackMoment": "回忆时刻",
+  "nothingToRememberToday": "今天没有值得回忆的事",
+  "letsLookBackOnThisDayInThePast": "让我们回顾一下过去的今天 ~",
+  "recent": "最近",
+  "random": "随机",
+  "delete": "删除",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "分享文件时出错，请重试。",
+  "keep": "保留",
+  "reviewToDelete": "审核以删除",
+  "deleteNPhoto": "删除{value}张照片",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "拒绝",
+  "allow": "允许",
+  "manageMedia": "管理媒体",
+  "allowAppToDeleteNVideo": "允许{appName}删除{value}个视频吗？",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value}将被删除。",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "回到首页",
+  "done": "完成",
+  "imageDeleted": "图片已删除",
+  "videoDeleted": "视频已删除",
+  "videoRetained": "视频已保留",
+  "imageRetained": "图片已保留",
+  "removingBackground": "正在去除背景...",
+  "somethingWentWrong": "出现问题",
+  "backgroundRemoved": "背景已去除",
+  "downloadedSuccessfully": "下载成功",
+  "keepOnExploring": "继续探索",
+  "goToHome": "回到首页",
+  "recently": "最近",
+  "NYearsAgo": "{value}年前",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "照片",
+  "screenshots": "截图",
+  "anything": "任何内容",
+  "pickWhatTypesOfImageToSeeInRandom": "选择在随机中查看的图片类型",
+  "favorite": "收藏",
+  "myStatistics": "我的统计",
+  "share": "分享",
+  "rate": "评分",
+  "policy": "政策",
+  "noFavoritesYet": "还没有收藏 ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "你还没有将任何照片标记为收藏。点击心形图标将最佳照片保存在这里！",
+  "photoDeleted": "照片已删除",
+  "photoRetained": "照片已保留",
+  "NPhotos": "{value}张照片",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "用SlideWipe快速清理你的照片和视频！💥\n立即下载",
+  "thereAreNoPhotosHereYet": "这里还没有照片~",
+  "addAFewPicsAndLetTheFunBegin": "添加几张照片，开始乐趣吧！",
+  "thereAreNoVideoHereYet": "这里还没有视频",
+  "addSomeFunVideosToSpiceThingsUp": "添加一些有趣的视频让生活更精彩！",
+  "thisAlbumHasNoPhotosYet": "该相册还没有照片~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "添加一些照片，开始保存你的珍贵时刻",
+  "noThrowbackKnockingOnYourDoorToday": "今天没有回忆敲门 ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "但谁知道——明天也许会有特别的事发生",
+  "nothingFromThePast5Days": "过去5天没有内容 ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "“最近”文件夹会显示你过去5天未查看的照片",
+  "clean": "清理",
+  "memory": "回忆",
+  "thisActionCanContainAdsAnimationLoading": "此操作可能包含广告和动画",
+  "thereAreNoImagesInThisSection": "本节暂无图片",
+  "doYouLikeTheApp": "你喜欢这个应用吗？",
+  "xByRatingIt5Stars": "给{appName}打5星好评",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "请支持我们",
+  "ohNo": "哦，不！",
+  "pleaseGiveUsSomeFeedback": "请给我们一些反馈",
+  "bestRatingForUs": "给我们最好的评价",
+  "skip": "跳过",
+  "youHaventSavedAnyImagesYet": "你还没有保存任何图片",
+  "tapTheIcon": "点击图标",
+  "toSaveTheImageToFavorites": "将图片保存到收藏夹",
+  "cleaner": "清理器",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "只需简单滑动即可整理您的照片，瞬间快速整理",
+  "languages": "语言",
+  "favorites": "收藏",
+  "settings": "设置",
+  "allowAppToDeleteNImage": "允许{appName}删除{value}张图片？",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}

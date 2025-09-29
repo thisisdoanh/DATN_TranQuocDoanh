@@ -1,0 +1,179 @@
+{
+  "error": "Erreur",
+  "timeoutErrorOccurred": "Erreur de délai d'attente survenue",
+  "errorSomething": "Une erreur s'est produite...",
+  "language": "Langue",
+  "swipeDelete": "Glisser et supprimer",
+  "browsePhotosByMonth": "Parcourir les photos par mois",
+  "swipeLeftToDeleteRightToKeepNoHassleMonth": "Glissez à gauche pour supprimer, à droite pour garder – sans tracas, mois par mois",
+  "reviewKeepdelete": "Vérifier & Garder/Supprimer",
+  "knowExactlyHowManyPhotosYouveOrganizedAndUndoAt": "Sachez exactement combien de photos vous avez organisées et annulez à tout moment",
+  "quicklyRemoveTheBackground": "Supprimer rapidement l'arrière-plan",
+  "withJustOneActionTheBackgroundWillBeAutomaticallyRemoved": "En une seule action, l'arrière-plan sera automatiquement supprimé en quelques secondes",
+  "start": "Démarrer",
+  "next": "Suivant",
+  "permission": "Autorisation",
+  "appnameRequiresPermissionToUseTheDevicesFunction": "“{appName}” nécessite une autorisation pour utiliser la fonction de l'appareil",
+  "@appNameRequiresPermissionToUseTheDevicesFunction": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "notificationPermission": "Autorisation de notification",
+  "youMustGrantNotificationPermissionToUseThisApp": "Vous devez accorder l'autorisation de notification pour utiliser cette application",
+  "storagePermission": "Autorisation de stockage",
+  "youMustGrantStoragePermissionToUseThisApp": "Vous devez accorder l'autorisation de stockage pour utiliser cette application",
+  "storage": "Stockage",
+  "notification": "Notification",
+  "permissionDenied": "Autorisation refusée",
+  "youNeedToAllowThisPermissionToUseTheFeature": "Vous devez autoriser cette permission pour utiliser la fonctionnalité.",
+  "setting": "Paramètre",
+  "cancel": "Annuler",
+  "yourPhotoIsBeingPreparedForSwipingPleaseWaitA": "Votre photo est en cours de préparation pour le balayage. Veuillez patienter un instant",
+  "useInPhoto": "Utiliser dans la photo",
+  "freed": "Libéré",
+  "cleanUp": "NETTOYER",
+  "video": "Vidéo",
+  "photo": "Photo",
+  "screenshot": "Capture d'écran",
+  "album": "Album",
+  "throwbackMoment": "Moment souvenir",
+  "nothingToRememberToday": "Rien à se rappeler aujourd'hui",
+  "letsLookBackOnThisDayInThePast": "Revenons sur ce jour dans le passé ~",
+  "recent": "Récent",
+  "random": "Aléatoire",
+  "delete": "Supprimer",
+  "thereWasAnErrorSharingTheFilePleaseTryAgain": "Une erreur s'est produite lors du partage du fichier, veuillez réessayer.",
+  "keep": "GARDER",
+  "reviewToDelete": "Vérifier pour supprimer",
+  "deleteNPhoto": "Supprimer {value} photo",
+  "@deleteNPhoto": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "deny": "Refuser",
+  "allow": "Autoriser",
+  "manageMedia": "Gérer les médias",
+  "allowAppToDeleteNVideo": "Autoriser {appName} à supprimer {value} vidéo ?",
+  "@allowAppToDeleteNVideo": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "NSizeWillBeDeleted": "{value} sera supprimé.",
+  "@NSizeWillBeDeleted": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "goHome": "Aller à l'accueil",
+  "done": "Terminé",
+  "imageDeleted": "Image supprimée",
+  "videoDeleted": "Vidéo supprimée",
+  "videoRetained": "Vidéo conservée",
+  "imageRetained": "Image conservée",
+  "removingBackground": "Suppression de l'arrière-plan...",
+  "somethingWentWrong": "Une erreur s'est produite",
+  "backgroundRemoved": "Arrière-plan supprimé",
+  "downloadedSuccessfully": "Téléchargé avec succès",
+  "keepOnExploring": "Continuez à explorer",
+  "goToHome": "Aller à l'accueil",
+  "recently": "Récemment",
+  "NYearsAgo": "Il y a {value} ans",
+  "@NYearsAgo": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "photos": "Photos",
+  "screenshots": "Captures d'écran",
+  "anything": "N'importe quoi",
+  "pickWhatTypesOfImageToSeeInRandom": "Choisissez quels types d'image voir dans Aléatoire",
+  "favorite": "Favori",
+  "myStatistics": "Mes statistiques",
+  "share": "Partager",
+  "rate": "Noter",
+  "policy": "Politique",
+  "noFavoritesYet": "Pas encore de favoris ~",
+  "youHaventMarkedAnyPhotosAsFavoriteTapTheHeart": "Vous n'avez pas encore marqué de photos comme favoris. Appuyez sur l'icône en forme de cœur pour enregistrer vos meilleures photos ici !",
+  "photoDeleted": "Photo supprimée",
+  "photoRetained": "Photo conservée",
+  "NPhotos": "{value} photos",
+  "@NPhotos": {
+    "type": "string",
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "cleanUpYourPhotosAndVideosFastWithSlidewipedownloadNow": "Nettoyez rapidement vos photos et vidéos avec SlideWipe ! 💥\nTéléchargez maintenant",
+  "thereAreNoPhotosHereYet": "Il n'y a pas encore de photos ici~",
+  "addAFewPicsAndLetTheFunBegin": "Ajoutez quelques photos et que le plaisir commence !",
+  "thereAreNoVideoHereYet": "Il n'y a pas encore de vidéos ici",
+  "addSomeFunVideosToSpiceThingsUp": "Ajoutez quelques vidéos amusantes pour pimenter les choses !",
+  "thisAlbumHasNoPhotosYet": "Cet album n'a pas encore de photos~",
+  "addSomePhotosToStartSavingYourPreciousMoments": "Ajoutez quelques photos pour commencer à enregistrer vos précieux moments",
+  "noThrowbackKnockingOnYourDoorToday": "Aucun souvenir ne frappe à votre porte aujourd'hui ~",
+  "butWhoKnowsTomorrowMightBringSomethingSpecial": "mais qui sait — demain pourrait apporter quelque chose de spécial",
+  "nothingFromThePast5Days": "Rien des 5 derniers jours ~",
+  "theRecentlyFolderWillDisplayPhotosYouHaventViewedIn": "Le dossier \"Récemment\" affichera les photos que vous n'avez pas vues au cours des 5 derniers jours",
+  "clean": "Nettoyer",
+  "memory": "Mémoire",
+  "thisActionCanContainAdsAnimationLoading": "Cette action peut contenir des publicités et des animations",
+  "thereAreNoImagesInThisSection": "Il n'y a pas d'images dans cette section",
+  "doYouLikeTheApp": "Aimez-vous l'application ?",
+  "xByRatingIt5Stars": "{appName} en lui attribuant 5 étoiles",
+  "@xByRatingIt5Stars": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "pleaseSupport": "Merci de nous soutenir",
+  "ohNo": "Oh non !",
+  "pleaseGiveUsSomeFeedback": "Merci de nous faire part de vos commentaires",
+  "bestRatingForUs": "Meilleure note pour nous",
+  "skip": "Ignorer",
+  "youHaventSavedAnyImagesYet": "Vous n'avez encore enregistré aucune image",
+  "tapTheIcon": "Appuyez sur l'icône",
+  "toSaveTheImageToFavorites": "pour enregistrer l'image dans les favoris",
+  "cleaner": "Nettoyeur",
+  "organizeYourPhotosWithASimpleSwipeThroughEachDay": "Organisez vos photos d'un simple glissement chaque jour, classez-les rapidement en un instant",
+  "languages": "Langues",
+  "favorites": "Favoris",
+  "settings": "Paramètres",
+  "allowAppToDeleteNImage": "Autoriser {appName} à supprimer {value} image ?",
+  "@allowAppToDeleteNImage": {
+    "type": "string",
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  }
+}
